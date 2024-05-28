@@ -12,10 +12,12 @@ pyqt5 python httpx
 
 1.解压
 2.双击小红书数据采集
+![输入图片说明](imgs/%E5%90%AF%E5%8A%A8%E8%BD%AF%E4%BB%B6.png)
 3.登录账号
-
+![输入图片说明](imgs/login1.png.png)
 #### 使用说明
 
 批量采用用户数据需要导入主页链接
+![输入图片说明](imgs/homescrapy.png)
 批量采集笔记数据选哟导入笔记链接
  **excel第一行需带 主页链接 或 笔记链接 的数据标题** 
